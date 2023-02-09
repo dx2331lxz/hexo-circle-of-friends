@@ -17,7 +17,7 @@
 LINK:
 #    - {link: "https://daoxuan.cc/link/", theme: "volantis"}  # 友链页地址1，修改为你的友链页地址
     - {link: "https://daoxuan.cc/link/", theme: "butterfly"} # 友链页地址2
-    - {link: "https://daoxuan.cc/link/", theme: "common1"} # 友链页地址3
+#    - {link: "https://daoxuan.cc/link/", theme: "common1"} # 友链页地址3
 
 
 # 配置项友链
